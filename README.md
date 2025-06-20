@@ -72,4 +72,29 @@ Create simple About and Contact pages and link them in your menu.
 
 ---
 
-## 🏁 Wrap-Up 
+## 🌐 Live Demo
+
+You can view the live HTML page here:
+
+🔗 [View index.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/index.html)
+
+🔗 [View paragraph.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/paragraph.html)
+
+🔗 [View headings.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/headings.html)
+
+🔗 [View images.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/images.html)
+
+🔗 [View resize_images.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/resize_images.html)
+
+🔗 [View more_images.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/more_images.html)
+
+🔗 [View hyperlinks.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/hyperlinks.html)
+
+🔗 [View about.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/about.html)
+
+🔗 [View boat.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/boat.html)
+
+🔗 [View image_hyperlink.html on GitHub Pages](https://keamogetsw3.github.io/fnb_app_academy-HTML/image_hyperlink.html)
+
+## 🛠 Tools
+- [VS Code Download](https://code.visualstudio.com/)
