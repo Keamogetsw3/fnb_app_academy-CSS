@@ -12,15 +12,15 @@
 
 ### ✅Lesson 1: What is CSS?
 
-CSS is a language used to style web pages. It helps you define fonts, colors, and layouts. CSS and HTML serve different purposes—HTML builds the structure, CSS adds design.
+CSS is a language used to style web pages. It helps define fonts, colors, and layouts. CSS and HTML serve different purposes—HTML builds the structure, CSS adds design.
 
 ### ✅Lesson 2: External CSS File
 
-You’ll learn how to write CSS in a separate file and link it to your HTML page to keep your code organized.
+Write CSS in a separate file and link it to your HTML page to keep your code organized.
 
 ### ✅Lesson 3: CSS Fonts
 
-You’ll discover how to change the appearance of text using different font styles.
+Change the appearance of text using different font styles.
 
 ### ✅Lesson 4–5: List Styling
 
